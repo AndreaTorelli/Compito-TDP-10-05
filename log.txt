@@ -1,0 +1,34 @@
+commit 044a3d80fc6dbc5235fea4cad5ee9f90f2c5a5aa
+Author: AndreaTorelli <studente.torelli.andrea@gmail.com>
+Date:   Fri May 10 11:50:33 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..374db5f 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit 5e6ad4a395fe699dc8208cd29a0e3fec7feb6289
+Author: AndreaTorelli <studente.torelli.andrea@gmail.com>
+Date:   Fri May 10 11:17:57 2019 +0200
+
+    Inserita Immagine
+
+diff --git a/img/eng.jpeg b/img/eng.jpeg
+new file mode 100644
+index 0000000..02ecc82
+Binary files /dev/null and b/img/eng.jpeg differ
+
+commit cf2b8af996d3699fd5bae6d696b653376c1ec1ba
+Author: AndreaTorelli <studente.torelli.andrea@gmail.com>
+Date:   Fri May 10 11:07:04 2019 +0200
+
+    Prima Commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
